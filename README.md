@@ -26,7 +26,7 @@ sources:
 ## How to run
 
 1. Navigate to the directory where you downloaded or cloned this repository.
-2. from this link https://drive.google.com/drive/folders/1jW7-Y0qiu8JSnXhFyTjtxg313GK9MvUZ download similarity.pkl,series_similarity.pkl,series_list.pkl,movie_list.pkl 
+2. from this link https://drive.google.com/drive/folders/1jW7-Y0qiu8JSnXhFyTjtxg313GK9MvUZ?usp=sharing download       s similarity.pkl,series_similarity.pkl,series_list.pkl,movie_list.pkl 
 3. place the similarity.pkl,series_similarity.pkl,series_list.pkl,movie_list.pkl in the code folder
 4. Run the Python script using the command `python final.py`.
 5. Open a web browser and navigate to `http://localhost:8000/` to view the
